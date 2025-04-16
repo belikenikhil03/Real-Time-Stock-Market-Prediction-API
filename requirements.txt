@@ -1,0 +1,10 @@
+# requirements.txt
+flask==2.3.3
+pymongo==4.6.1
+redis==5.0.1
+yfinance==0.2.41
+prophet==1.1.5
+plotly==5.22.0
+python-dotenv==1.0.1
+schedule==1.2.2
+pandas==2.2.2

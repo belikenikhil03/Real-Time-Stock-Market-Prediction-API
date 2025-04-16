@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+mongo-data/
+*.log
+venv/
